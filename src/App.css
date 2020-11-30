@@ -1,5 +1,5 @@
-.App {
-  text-align: center;
+.App Navbar{
+ text-align: center;
 }
 
 .App-logo {
@@ -36,3 +36,5 @@
     transform: rotate(360deg);
   }
 }
+
+/* Navbar */
